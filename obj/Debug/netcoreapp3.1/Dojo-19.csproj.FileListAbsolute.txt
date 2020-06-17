@@ -1,0 +1,13 @@
+C:\Users\gabriel\Documents\GitHub\Dojo-19\obj\Debug\netcoreapp3.1\Dojo-19.csprojAssemblyReference.cache
+C:\Users\gabriel\Documents\GitHub\Dojo-19\obj\Debug\netcoreapp3.1\Dojo-19.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\GitHub\Dojo-19\obj\Debug\netcoreapp3.1\Dojo-19.AssemblyInfo.cs
+C:\Users\gabriel\Documents\GitHub\Dojo-19\obj\Debug\netcoreapp3.1\Dojo-19.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\GitHub\Dojo-19\bin\Debug\netcoreapp3.1\Dojo-19.exe
+C:\Users\gabriel\Documents\GitHub\Dojo-19\bin\Debug\netcoreapp3.1\Dojo-19.deps.json
+C:\Users\gabriel\Documents\GitHub\Dojo-19\bin\Debug\netcoreapp3.1\Dojo-19.runtimeconfig.json
+C:\Users\gabriel\Documents\GitHub\Dojo-19\bin\Debug\netcoreapp3.1\Dojo-19.runtimeconfig.dev.json
+C:\Users\gabriel\Documents\GitHub\Dojo-19\bin\Debug\netcoreapp3.1\Dojo-19.dll
+C:\Users\gabriel\Documents\GitHub\Dojo-19\bin\Debug\netcoreapp3.1\Dojo-19.pdb
+C:\Users\gabriel\Documents\GitHub\Dojo-19\obj\Debug\netcoreapp3.1\Dojo-19.dll
+C:\Users\gabriel\Documents\GitHub\Dojo-19\obj\Debug\netcoreapp3.1\Dojo-19.pdb
+C:\Users\gabriel\Documents\GitHub\Dojo-19\obj\Debug\netcoreapp3.1\Dojo-19.genruntimeconfig.cache
